@@ -1,0 +1,8 @@
+[project]
+name = "sample-project"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.13"
+dependencies = [
+    "sqlmodel>=0.0.24",
+]
